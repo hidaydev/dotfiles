@@ -41,7 +41,7 @@ Download and install **JetBrains Mono NF** (Nerd Font) from https://www.nerdfont
 ### 7. Clone and symlink
 ```bash
 git clone git@github.com:hidaydev/dotfiles.git ~/Code/dotfiles
-ln -sf ~/Code/dotfiles/.zshrc ~/.zshrc
+cp ~/Code/dotfiles/.zshrc ~/.zshrc
 ```
 
 Then restart your terminal.
