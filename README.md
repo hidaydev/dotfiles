@@ -38,7 +38,7 @@ brew install nvm eza bat fzf zoxide
 ### 6. Install font
 Download and install **JetBrains Mono NF** (Nerd Font) from https://www.nerdfonts.com/font-downloads
 
-### 7. Clone and symlink
+### 7. Clone and copy
 ```bash
 git clone git@github.com:hidaydev/dotfiles.git ~/Code/dotfiles
 cp ~/Code/dotfiles/.zshrc ~/.zshrc
